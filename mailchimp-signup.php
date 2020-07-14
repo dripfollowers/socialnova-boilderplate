@@ -15,8 +15,7 @@
  */
 
 // Set API Key and list ID to add a subscriber
-$api_key = '1ab28a2ff1a0634304fded0ecdd74356-us20';
-// $list_id = 'd0b38c0d9dasfasdfasdfasd';
+$api_key = '*****';
 
 $email = $_POST['email'];
  
